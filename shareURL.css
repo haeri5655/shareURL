@@ -1,0 +1,16 @@
+*{margin: 0px; padding: 0px;}
+
+img
+{
+  position: absolute;
+  width: 305px;
+  height: 141.61px;
+  left: calc(50% - 305px/2);
+  top: calc(50% - 141.61px/2 - 94.5px);
+  
+  background: url(share\ URL.png);
+}
+
+ul{list-style: none;}
+
+a{text-decoration: none;}
