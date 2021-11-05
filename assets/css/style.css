@@ -1,12 +1,15 @@
 *{margin: 0px; padding: 0px;}
 
-img
+#header .logo
 {
-  position: absolute;
-  width: 305px;
-  height: 141.61px;
-  left: calc(50% - 305px/2);
-  top: calc(50% - 141.61px/2 - 94.5px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px;
   
-  background: url(share\ URL.png);
+  position: absolute;
+  width: 325px;
+  height: 161.61px;
+  left: calc(50% - 325px/2);
+  top: calc(50% - 161.61px/2 - 94.5px);  
 }
